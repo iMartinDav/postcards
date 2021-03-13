@@ -1,0 +1,17 @@
+---
+title: "Martín Dávila"
+image: "mtn.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/iMartinDav"
+  - label: Email
+    url: "mailto:aldntmi@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Pokemon Master ✨🎮, Geneticist 🧬 the true eternal student 💚.
